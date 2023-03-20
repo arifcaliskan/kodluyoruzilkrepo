@@ -23,3 +23,5 @@
 ## License
 
 [MIT License](https://github.com/arifcaliskan/kodluyoruzilkrepo/blob/main/LICENSE)
+
+![Kodluyoruz Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
