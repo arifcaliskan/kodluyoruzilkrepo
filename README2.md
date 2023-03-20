@@ -5,7 +5,7 @@
 ## Installation 
 * Öncelikle projeyi clonlayın (https://github.com/arifcaliskan/kodluyoruzilkrepo.git)
 
-' git clone https://github.com/arifcaliskan/kodluyoruzilkrepo.git'
+`git clone https://github.com/arifcaliskan/kodluyoruzilkrepo.git`
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ### Linux için 
 ``` cd kodluyoruzilkrepo 
-    code ``` 
+    code  '''
 
 
 ## Contribution 
