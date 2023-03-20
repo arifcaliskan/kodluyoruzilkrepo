@@ -14,7 +14,7 @@
 ### Linux için 
 ```
 cd kodluyoruzilkrepo 
-    code  '''
+    code  ´´´
 
 
 ## Contribution 
