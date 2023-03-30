@@ -5,16 +5,18 @@
 ## Installation 
 * Öncelikle projeyi clonlayın (https://github.com/arifcaliskan/kodluyoruzilkrepo.git)
 
-' git clone https://github.com/arifcaliskan/kodluyoruzilkrepo.git'
+`git clone https://github.com/arifcaliskan/kodluyoruzilkrepo.git`
 
 ## Usage
 
 * Projeyi clonladıktan sonra Visual Studio Code Programında aç.
 
 ### Linux için 
-''' cd kodluyoruzilkrepo 
-    code, 
-''' 
+```
+cd kodluyoruzilkrepo 
+    code  
+```
+
 
 ## Contribution 
 
